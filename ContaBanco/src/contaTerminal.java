@@ -29,7 +29,7 @@ public class contaTerminal {
         System.out.println(nomeCliente+", Bem Vindo ao Banco JV.");
         System.out.println("Sua Agencia é: " + agenciaBancaria);
         System.out.println( "Sua conta " +  tipoConta + " é : " +  contaBancaria + ".");
-        System.out.println("Valor Depositado: " + valorDeposito + " e esta diponivél para Saque!");
+        System.out.println("Valor Depositado: " + valorDeposito + " e está disponivel para Saque!");
         System.out.println("Conta criada com Sucesso.");
 
 
